@@ -35,17 +35,17 @@ const Footer = () => {
               </Link>
             </li>
             <li>
-              <Link to="/shop" className="hover:text-blue-400 transition">
+              <Link to="#" className="hover:text-blue-400 transition">
                 Shop
               </Link>
             </li>
             <li>
-              <Link to="/about" className="hover:text-blue-400 transition">
+              <Link to="#" className="hover:text-blue-400 transition">
                 About Us
               </Link>
             </li>
             <li>
-              <Link to="/contact" className="hover:text-blue-400 transition">
+              <Link to="#" className="hover:text-blue-400 transition">
                 Contact
               </Link>
             </li>
@@ -57,22 +57,22 @@ const Footer = () => {
           <h3 className="text-lg font-semibold text-white mb-3">Customer Service</h3>
           <ul className="space-y-2 text-sm">
             <li>
-              <Link to="/faq" className="hover:text-blue-400 transition">
+              <Link to="#" className="hover:text-blue-400 transition">
                 FAQs
               </Link>
             </li>
             <li>
-              <Link to="/shipping" className="hover:text-blue-400 transition">
+              <Link to="#" className="hover:text-blue-400 transition">
                 Shipping & Returns
               </Link>
             </li>
             <li>
-              <Link to="/privacy" className="hover:text-blue-400 transition">
+              <Link to="#" className="hover:text-blue-400 transition">
                 Privacy Policy
               </Link>
             </li>
             <li>
-              <Link to="/terms" className="hover:text-blue-400 transition">
+              <Link to="#" className="hover:text-blue-400 transition">
                 Terms & Conditions
               </Link>
             </li>
@@ -85,11 +85,11 @@ const Footer = () => {
           <ul className="space-y-3 text-sm">
             <li className="flex items-center gap-2">
               <FaMapMarkerAlt className="text-blue-400" />
-              <span>123 Market Street, Mumbai, India</span>
+              <span>123 Market Street, Ahmedabad, India</span>
             </li>
             <li className="flex items-center gap-2">
               <FaPhone className="text-blue-400" />
-              <span>+91 98765 43210</span>
+              <span>+91 98765 4XXX0</span>
             </li>
             <li className="flex items-center gap-2">
               <FaEnvelope className="text-blue-400" />
